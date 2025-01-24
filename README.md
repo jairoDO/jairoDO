@@ -4,11 +4,11 @@ I am a python developer looking for a project that can contribute with my knowle
 
 I have the following knowledge in the technologies such as:
 
-- Python (4 years)
+- Python (6 years)
 - C/C++(1 year)
 - Java (1 year)
 - PHP (1.5 year)
-- Django (2 years)
+- Django (3 years)
 - JavaScript(3 years)
 - Symfony 2 (1.5 year)
 - Mysql
@@ -17,7 +17,7 @@ I have the following knowledge in the technologies such as:
 - Web applications.
 - Git
 - Angular
-- React.js
+- React.js (2 years)
 
 
 <!--
