@@ -1,36 +1,28 @@
-### Hi there, I am Python developer 👋
+# Jairo Ordoñez
 
-I am a python developer looking for a project that can contribute with my knowledge, I have experience in the web development, I focus on the backend development. I would like to find some project in which I can add value to improve this community
+**Python Backend Developer · Django · APIs**
 
-I have the following knowledge in the technologies such as:
+I build backend web applications and APIs with Python and Django. My public work includes REST APIs, data-processing commands, Docker-based development, and automated testing.
 
-- Python (6 years)
-- C/C++(1 year)
-- Java (1 year)
-- PHP (1.5 year)
-- Django (3 years)
-- JavaScript(3 years)
-- Symfony 2 (1.5 year)
-- Mysql
-- Postgresql databases
-- MongoDB
-- Web applications.
-- Git
-- Angular
-- React.js (2 years)
+## Core technologies
 
+- Python
+- Django and Django REST Framework
+- asyncio
+- PostgreSQL, MySQL, and MongoDB
+- Docker
+- Unit, behavior, and API testing
+- JavaScript and React
 
-<!--
-g**jairoDO/jairoDO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Selected projects
 
-Here are some ideas to get you started:
-    
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on python django project...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it demonstrates |
+| --- | --- |
+| [Simple Weather API](https://github.com/jairoDO/simpleWeatherApi) | Django REST API for weather and geocoding, with Docker, unit tests, and behavior tests. |
+| [VentaStockManager](https://github.com/jairoDO/VentaStockManager) | Django application for managing product inventory and sales. |
+| [Octopus Energy challenge](https://github.com/jairoDO/octopusEnergyChallenge) | NEM13 data ingestion and validation with Django management commands, unit tests, and behavior-driven tests. |
+
+## Current focus
+
+- Improving the documentation, testing, and reproducibility of my public projects
+- Building a new portfolio with concise technical case studies
