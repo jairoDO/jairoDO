@@ -19,6 +19,7 @@ I build backend web applications and APIs with Python and Django. My public work
 | Project | What it demonstrates |
 | --- | --- |
 | [Simple Weather API](https://github.com/jairoDO/simpleWeatherApi) | Django REST API for weather and geocoding, with Docker, unit tests, and behavior tests. |
+| [VentaStockManager](https://github.com/jairoDO/VentaStockManager/tree/production) | Production Django system for inventory, sales, customers, price lists, scheduled jobs, and a Render deployment. |
 | [Octopus Energy challenge](https://github.com/jairoDO/octopusEnergyChallenge) | NEM13 data ingestion and validation with Django management commands, unit tests, and behavior-driven tests. |
 
 ## Current focus
