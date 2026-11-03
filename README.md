@@ -25,4 +25,5 @@ I build backend web applications and APIs with Python and Django. My public work
 ## Current focus
 
 - Improving the documentation, testing, and reproducibility of my public projects
+- Completing a postgraduate diploma in Applied Artificial Intelligence
 - Building a new portfolio with concise technical case studies
